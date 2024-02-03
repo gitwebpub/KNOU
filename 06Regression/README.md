@@ -18,17 +18,17 @@ Faraway, J.J. Practical Regression and Anova using R, 2002
 4. 기말고사 (데이터 분석 보고서 작성 및 줌 발표) 30%
 
 ###
-1 Matrix Algebra Basics
+- 1 Matrix Algebra Basics
 행렬 연산에 대한 기본개념
-2 R 개요
+- 2 R 개요
 데이터분석 도구로서의 R 기초 활용법
-3 Probability and Distributions
+- 3 Probability and Distributions
 확률 및 분포에 대한 기초이론
-4 One-sample and Two-sample test
+- 4 One-sample and Two-sample test
 두 모집단의 비교
-5 Analysis of Variance
+- 5 Analysis of Variance
 세 개 이상의 모집단의 비교
-6 Simple Linear Regression
+- 6 Simple Linear Regression
 단순선형회귀모형의 이해와 응용
 - 7 Multiple Regression
   다중회귀 모형의 이해와 응용
